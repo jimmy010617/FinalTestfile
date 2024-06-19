@@ -51,7 +51,7 @@ public class Final extends JFrame {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                new Final(); // [문제6] 결과 화면의 윈도우를 출력해 주세요.
+                new Final();
             } 
         });
     }
